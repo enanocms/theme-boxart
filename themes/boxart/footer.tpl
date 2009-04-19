@@ -19,5 +19,6 @@
           
       </td></tr>
     </table>
+    {JS_FOOTER}
   </body>
 </html>
